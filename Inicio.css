@@ -1,0 +1,164 @@
+
+body {margin: auto;
+background: radial-gradient(circle, rgba(223,244,166,1) 0%, rgba(255,255,255,1) 100%);
+
+}
+
+h1{ 
+	text-align: center; 
+font-family: 'Readex Pro', sans-serif;
+	 font-size: 45px;
+	 position: relative;
+	 top:25px;
+	text-shadow: 0px 3px 1px rgba(255,255,255,1);
+
+	}
+
+nav{
+	 position: absolute;
+	 left: 735px;
+	top:130px;
+	
+}
+
+article{
+	position: relative;
+	top:52px;
+	left: 35px;
+	height: 1500px;
+
+	 background-color: #F7F5F0;
+	  border-radius: 186px 179px 0px 0px;
+	   width: 1320px;
+	    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25); 
+	    font-family: 'Montserrat', sans-serif;
+	    font-size:18px;
+
+	}
+
+.info{ 
+  padding: 20px;20px;0px;100px
+}
+
+section{
+	position:relative;
+	top:100px;
+	left:250px;
+	  margin: 10 px auto;
+	  height: 1600px;
+	  background-color:#98BF5F; width: 1400px;
+ border: 1px solid rgba(255, 255, 255, .25);
+  border-radius: 20px;
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+   }
+
+footer{
+	width: 1400px;
+	margin: 100px;
+	position: relative; 
+		top: 40px;
+	left: 150px;
+	background-color: #98BF5F;
+	 border-radius: 20px;
+	 box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+}
+h5{
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 25px;
+	text-align: left;
+	padding: 20px;
+}
+ul{
+	font-family: 'Readex Pro', sans-serif;
+	text-align: left;
+	margin-left: 5px;
+}
+.img1{ 
+	width: 70%; 
+	height: 50%;
+	border-radius: 50%;
+	  padding: 10px;
+	position: relative;
+	left: 13%;
+	border-style: inset;
+ }
+ .img2{
+ 	float: left;
+ 	width: 450px;
+ 	height: 460px;
+ 	padding: 5px;
+ 	border-radius: 15px 50px;
+
+ }
+ .p1{
+text-align: center;
+  line-height: 1.8;
+
+ }
+ .p2{
+  line-height: 1.8;
+  text-align: center;
+
+
+ }
+
+.titulos{
+	text-align:center; 
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 35px; 
+	font-style: bold;
+
+}
+
+.Inicio{ 
+	text-decoration:none;
+	 background-color: #98BF5F;
+	  width:180px;
+	   height:80px;
+	   border-radius:30px;
+	    margin: 3px;
+	    padding: 5px; 
+	    font-family: 'Readex Pro', sans-serif;
+	    font-size: 25px;
+	     padding: 19px;21px;7px;19px; 
+	     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+} 
+
+.aprende{
+	text-decoration:none;
+	background-color: #F7F5F0;
+	 width:180px; 
+	 height:80px; 
+	 border-radius:30px; 
+	 margin: 3px;
+	 padding: 5px; 
+	font-family: 'Readex Pro', sans-serif;
+	  font-size: 25px; 
+	  padding: 19px;21px;7px;19px;
+	   box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+}
+
+.contacto{
+ text-decoration:none;
+ background-color: #F27357; 
+ width:180px;
+  height:80px; 
+  border-radius:30px; 
+  margin: 3px;
+  padding: 5px; 
+  font-family: 'Readex Pro', sans-serif;
+   font-size: 25px; 
+   padding: 19px;
+   21px;7px;19px;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+
+
+
+
+
+
+
+
+
+
+
